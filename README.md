@@ -16,4 +16,4 @@ Decision values are saved by variable d1, conditional values are saved by variab
 main(data1,d1)
 ```
 
-[example7](example7.png)
+![example7](example7.png)
