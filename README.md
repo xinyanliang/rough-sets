@@ -1,4 +1,4 @@
-# rough-sets
+## On rule [acquisition in incomplete multi-scale decision tables](www.yuhuaqian.net/Cms_Data/Contents/SXU_YHQ/Folders/JournalPapers/~contents/ACD2ULGAC6VEMECB/On%20rule%20acquisition%20in%20incomplete%20multi-scale%20decision%20tables.pdf)
 
 This code for [On rule acquisition in incomplete multi-scale decision tables](www.yuhuaqian.net/Cms_Data/Contents/SXU_YHQ/Folders/JournalPapers/~contents/ACD2ULGAC6VEMECB/On%20rule%20acquisition%20in%20incomplete%20multi-scale%20decision%20tables.pdf)
 
